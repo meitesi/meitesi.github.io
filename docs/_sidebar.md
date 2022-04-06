@@ -7,3 +7,5 @@
 - 技术要点
    - SpringBoot2.X
       - [自定义注解，AOP 切面统一打印出入参请求日志](java/2022-3-28-AOP切面统一打印请求日志.md)
+   - Jenkins
+      - [Docker安装Jenkins并运行](java/2022-4-6-docker安装Jenkins.md)
