@@ -45,5 +45,5 @@ docker-composer up -d
 ```
 
 > 此过程需要注意的点:
-> 1.docker-compose.yml  必须配置 user 为 root 用户,否则在pipeline 运行是会报权限错误
-> 2.如果需要docker镜像打包的话则需要在 jenkins 插件中 需要安装 `Docker` 以及 `Docker Pipeline` 2个插件
+1. docker-compose.yml  必须配置 user 为 root 用户,否则在pipeline 运行是会报权限错误
+2. 如果需要docker镜像打包的话则需要在 jenkins 插件中 需要安装 `Docker` 以及 `Docker Pipeline` 2个插件
