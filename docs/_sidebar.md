@@ -9,5 +9,6 @@
       - [自定义注解，AOP 切面统一打印出入参请求日志](java/2022-3-28-AOP切面统一打印请求日志.md)
    - Jenkins
       - [Docker安装Jenkins并运行](java/2022-4-6-docker安装Jenkins.md)
+      - [Jenkins流水线Pipeline模板(SpringBoot)](jenkins/2022-4-12-jenkins流水线pipeline模板-springboot.md)
    - Docker
       - [服务器添加用户到Docker组中](java/2022-4-7-添加用户到docker组中.md)
